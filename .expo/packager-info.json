@@ -3,8 +3,8 @@
   "expoServerPort": null,
   "packagerPort": null,
   "packagerPid": null,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null,
+  "expoServerNgrokUrl": "https://hq-zev.zrwdopod.crypto-tool.exp.direct",
+  "packagerNgrokUrl": "https://packager.hq-zev.zrwdopod.crypto-tool.exp.direct",
+  "ngrokPid": 4013,
   "webpackServerPort": null
 }
